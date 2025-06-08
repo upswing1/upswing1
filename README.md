@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @upswing1
-- 👀 I’m interested in maui and blazor
-- 🌱 I’m currently learning .net 8
-- 💞️ I’m looking to collaborate on maui and blazor
+- 👀 I’m interested in .net development Full stack, AI etc
+- 🌱 I’m currently working on a large project 
+- 💞️ I’m looking to learn the latest in AI
 - 📫 How to reach me jbonlay@hotmail.com
 
 <!---
